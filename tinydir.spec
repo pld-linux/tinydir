@@ -1,13 +1,13 @@
 Summary:	Lightweight, portable and easy to integrate C directory and file reader
 Summary(pl.UTF-8):	Lekka, przenośna i łatwa w integracji biblioteka C do odczytu katalogów i plików
 Name:		tinydir
-Version:	1.2.5
+Version:	1.2.6
 Release:	1
 License:	BSD
 Group:		Libraries
 #Source0Download: https://github.com/cxong/tinydir/releases
 Source0:	https://github.com/cxong/tinydir/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	bdb6716f92999fe6ddeaf0a3307b63b2
+# Source0-md5:	49f19df1b8393b717609911d56854a43
 URL:		https://github.com/cxong/tinydir
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
